@@ -1,0 +1,15 @@
+{
+  "name": "dyanamic_programming_in_javascript",
+  "version": "1.0.0",
+  "description": "this is solely for the purpose of understanding how recursive problems and flatmapping as well as hashmaps and stuffs for interviews and stuff. Feel free to look through my solutions, I should be able to add comments to each when I have more time",
+  "main": "fibmemoization.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node": "^20.18.0"
+  }
+}
