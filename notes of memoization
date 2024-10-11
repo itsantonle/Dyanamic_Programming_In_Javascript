@@ -1,8 +1,0 @@
-1. make the function recursive (find the base cases)
-2. try to draw a tree of the nodes calling child functions
-3. done making it recursive? Make it efficient
-3. store tasks in a memo object
-4. if two or more arguements concatenate into a key and store into memo
-5 if it's already in the memo object JUST RETURN the value
-6 else make a new memore property with the key and the value
-7 return the value from inside the memo
